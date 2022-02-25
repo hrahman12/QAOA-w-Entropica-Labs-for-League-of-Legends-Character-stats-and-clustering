@@ -1,1 +1,1 @@
-# QAOA-w-Entropica-Labs-for-League-of-Legends-Character-stats-and-clustering
+# QAOA w Entropica Labs for League of Legends Character stats and clustering
